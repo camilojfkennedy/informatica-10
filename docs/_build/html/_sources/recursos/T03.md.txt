@@ -1,0 +1,89 @@
+# T03: Mantenimiento
+
+:::{figure} ./recursos/t03/image01.png
+:align: center
+:width: 400
+
+Torre de PC
+:::
+
+El **mantenimiento** se refiere al conjunto de actividades y procesos destinados a conservar, reparar o mejorar un objeto, sistema o infraestructura. Su objetivo principal es asegurar que un bien funcione adecuadamente y prolongar su vida útil.
+
+Los mantenimiento son importantes debido a las siguientes razones:
+
+- **Prolongar la vida útil:** Permite mantener los equipos y dispositivos funcionando correctamente durante más tiempo, maximizando la inversión realizada.
+- **Prevención de problemas:** Ayuda a identificar y resolver problemas antes de que causen daños mayores como el daño en una persona o pérdida de información sensible.
+- **Ahorro económico:** Un mantenimiento adecuado evita costosas reparaciones y reemplazos prematuros de equipos.
+- **Seguridad digital:** El mantenimiento incluye aspectos de seguridad informática que protegen contra Malware o pérdidas de información.
+- **Eficiencia operativa:** Los equipos bien mantenidos funcionan de manera más eficiente, mejorando la productividad.
+
+---
+## Mantenimiento preventivo (evitar el daño) ✔
+
+Es el mantenimiento que se realiza de manera planificada para prevenir fallas antes de que ocurran. Incluye inspecciones regulares, limpieza, lubricación y reemplazo de piezas desgastadas.
+
+Es ideal para:
+
+- Equipos críticos cuya falla causaría grandes pérdidas.
+- Sistemas que requieren alta confiabilidad.
+- Cuando el costo de una falla es mayor que el costo del mantenimiento.
+- Para extender la vida útil de los equipos.
+
+### Clasificación mantenimiento preventivo
+
+- **Mantenimiento preventivo programado:** Cuando el mantenimiento se efectúa automáticamente, en función del tiempo de vida transcurrido.
+- **Mantenimiento preventivo predictivo:** Es aquel que se realiza cuando se ha ido revisando periódicamente el equipo, de manera que se puede anticipar cuando va a ocurrir un fallo, haciendo en ese momento la respectiva reparación.
+- **Mantenimiento preventivo de oportunidad:** Es el mantenimiento que se desarrolla aprovechando que el equipo no está siendo utilizado, por ejemplo, cuando se para la actividad en una temporada de baja demanda. De ese modo, se evita que se tenga que detener la producción en momentos donde sería inoportuno y más costoso. Si el equipo dejara de funcionar en una coyuntura de alta demanda, la empresa tendría que alquilar otra maquinaria o perdería ventas.
+
+---
+## Mantenimiento correctivo (el daño ocurre) ❌
+
+Es el mantenimiento que se realiza después de que ocurre una falla para reparar el equipo y devolverlo a su estado operativo.
+
+Es apropiado para:
+
+- Equipos no críticos cuya falla no afecta significativamente la operación.
+- Cuando el costo de la falla es menor que el costo del mantenimiento preventivo.
+- Componentes con patrones de falla aleatorios.
+- Situaciones donde la reparación es simple y rápida.
+
+### Clasificación de mantenimiento correctivo
+
+- **Mantenimiento correctivo inmediato:** Es aquel que se realiza en el mismo momento en el que se identifica el daño.
+- **Mantenimiento correctivo diferido:** Cuando se detiene la actividad del elemento afectado, pudiendo luego efectuarse la reparación correspondiente.
+
+---
+## Mantenimiento de actualización
+
+Se refiere a las inversiones necesarias frente a la obsolescencia tecnológica. Por ejemplo, puede tratarse de la instalación de un software o hardware que potencia el rendimiento de los ordenadores.
+
+---
+## Elección del tipo de mantenimiento
+
+La elección entre un **mantenimiento preventivo** y **correctivo** depende de factores como:
+
+- Criticidad del equipo
+- Costos asociados
+- Impacto de las fallas
+- Recursos disponibles
+
+En la práctica, muchas organizaciones implementan una combinación de ambos tipos de mantenimiento según sus necesidades específicas.
+
+---
+## Ideas de proyecto 💡
+
+1. **💡 Creación de marco de trabajo para planes de mantenimiento preventivo y correctivo**
+    
+    Construcción de manual de usuario con recomendaciones, buenas prácticas, listas de chequeo, plantillas, etc para la ejecución de planes de matenimiento. 
+
+---
+
+2. **💡 Propuesta de diseño de un programa de mantenimiento preventivo para una máquina específica**
+    
+    Seleccionar una máquina crítica (por ejemplo una impresora 3D, una cortadora laser, etc.) e identificar puntos críticos, definición de tareas de mantenimiento con su frecuencia y la gestión de recursos para garantizar el funcionamiento de la máquina.
+
+---
+
+3. **💡 Propuesta de diseño de un programa de mantenimiento preventivo para una sala de informática específica**
+
+    Seleccionar una de las salas de informática de la institución educativa y diseñar un plan de mantenimiento para proponer su ejecución ante el docente encargado. 
