@@ -12,6 +12,8 @@ intro.md
 :caption: PERIODO 01
 
 periodo01/A01.md
+periodo01/A02.md
+periodo01/A03.md
 periodo01/R01.md
 :::
 
