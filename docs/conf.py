@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'informatica-10'
-copyright = '2025, Julian Camilo Fonseca Romero, IE John F. Kennedy'
+copyright = '2026, Julian Camilo Fonseca Romero, IE John F. Kennedy, Puerto Boyacá (Boyacá), Colombia'
 author = 'Julian Camilo Fonseca Romero'
 
 # -- General configuration ---------------------------------------------------

@@ -22,6 +22,11 @@ periodo01/R01.md
 :maxdepth: 2
 :caption: PERIODO 02
 
+periodo02/A04.md
+periodo02/A05.md
+periodo02/A06.md
+periodo02/A07.md
+periodo02/A08.md
 periodo02/R02.md
 :::
 
@@ -30,6 +35,10 @@ periodo02/R02.md
 :maxdepth: 2
 :caption: PERIODO 03
 
+periodo03/A09.md
+periodo03/A10.md
+periodo03/A11.md
+periodo03/A12.md
 periodo03/R03.md
 :::
 
@@ -38,7 +47,9 @@ periodo03/R03.md
 :maxdepth: 2
 :caption: PERIODO 04
 
-
+periodo04/A13.md
+periodo04/A14.md
+periodo04/A15.md
 periodo04/R04.md
 :::
 
@@ -53,12 +64,77 @@ recursos/T03.md
 recursos/T04.md
 recursos/T05.md
 recursos/T06.md
+recursos/T07.md
+recursos/T08.md
+recursos/T09.md
+recursos/descargas.md
 recursos/curriculum.md
 recursos/referencias.md
 :::
 
-# Informática grado décimo
+# C:\\> PORTAL WEB [SALA 115_](https://sala115.readthedocs.io)
 
-En este portal encuentra las guías y recursos académicos necesarios para aprender sobre las siguientes temáticas:
 
-- 
+:::{figure} ./sala115.png
+
+*“Bienvenido al portal web de la Sala 115”*
+:::
+
+En este espacio usted puede acceder a los *recursos académicos* de los cursos que se dictan en la **Sala de informática 115** de la [Institución Educativa John F. Kennedy](https://www.jfkennedy.edu.co) en Puerto Boyacá, Boyacá.
+
+:::{list-table}
+:align: center
+:header-rows: 1
+
+* - CURSOS
+  - OCTAVO
+  - DÉCIMO
+  - ONCE
+* - Lógica computacional
+  - [{kbd}`Enter`](https://sala115.readthedocs.io)
+  - N/A
+  - N/A
+* - Informática
+  - N/A
+  - [{kbd}`Enter`](https://sala115.readthedocs.io)
+  - N/A
+* - Ofimática
+  - N/A
+  - [{kbd}`Enter`](https://sala115.readthedocs.io)
+  - [{kbd}`Enter`](https://sala115.readthedocs.io)
+* - Programación
+  - N/A
+  - [{kbd}`Enter`](https://sala115.readthedocs.io)
+  - [{kbd}`Enter`](https://sala115.readthedocs.io)
+
+:::
+
+---
+***¿Sin INTERNET en la sala...?***, acceda de forma local:
+
+:::{list-table}
+:align: center
+:header-rows: 1
+
+* - CURSOS
+  - OCTAVO
+  - DÉCIMO
+  - ONCE
+* - Lógica computacional
+  - [{guilabel}`Enter`](https://sala115.readthedocs.io)
+  - N/A
+  - N/A
+* - Informática
+  - N/A
+  - [{guilabel}`Enter`](https://sala115.readthedocs.io)
+  - N/A
+* - Ofimática
+  - N/A
+  - [{guilabel}`Enter`](https://sala115.readthedocs.io)
+  - [{guilabel}`Enter`](https://sala115.readthedocs.io)
+* - Programación
+  - N/A
+  - [{guilabel}`Enter`](https://sala115.readthedocs.io)
+  - [{guilabel}`Enter`](https://sala115.readthedocs.io)
+
+:::
